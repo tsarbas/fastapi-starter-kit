@@ -59,7 +59,6 @@ dmypy.json
 *.swp
 *.swo
 *~
-.cursor/
 
 # Logs
 logs/
